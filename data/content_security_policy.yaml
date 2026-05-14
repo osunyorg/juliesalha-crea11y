@@ -5,6 +5,3 @@ allowed_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
-  - "fonts.googleapis.com"
-  - "fonts.gstatic.com"
-  - "accessibilite.numerique.gouv.fr"
