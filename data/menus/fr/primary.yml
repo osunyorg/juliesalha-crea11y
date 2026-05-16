@@ -55,4 +55,12 @@ items:
   descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
+- title: Demander un audit
+  slug: demander-un-audit
+  target: https://6fdca905.sibforms.com/serve/MUIFABBZA5KhzDMoPYtTL4TId5gR-oBLq4HcFuJxdsMcT_sU7dCPml-ZqNS7eeD7SJCUU6GjrbZSquqgPvjR94lwhmdRQYv_DBB9ojWQwePWH5uco_BPbcarje6-5LygXEOwrgwduF8zZU5covuz8TPNUyzbCYrY-8uYRFDbPTlxV0hKZjbh7C0NV0wmQeo_TIkajw-2yYYCiq2o
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
+  html_class: menu-class-cta-audit-menu
 
