@@ -11,3 +11,6 @@ params:
   home:
     head:
       title: site
+  plausible: true
+  share_links:
+    linkedin: true
