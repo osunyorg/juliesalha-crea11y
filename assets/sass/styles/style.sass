@@ -1,31 +1,15 @@
-// Title H1
-.hero .content .hero-text
-  margin-top: 0
 
-//Header button CTA
-.menu-class-cta-audit-menu a
-    background-color: #0038FF 
-    color: white
-    font-weight: bold
-    border-radius: 13px
-    padding: 13px
-    margin: 5px 0
-    width: fit-content
-
-.primary-menu .menu li a:hover
-      text-decoration: underline
 
 .block .block-title
-  text-transform: initial;
-  font-weight: bold;
+  text-transform: initial
+  font-weight: bold
 
-header#document-header .logo img,
-footer#document-footer .logo img
-  border-radius: .3rem;
+@include media-breakpoint-down(desktop)
+  .block-call_to_action .call_to_action--with-image
+    flex-direction: column-reverse;
 
-header#document-header .logo img,
-footer#document-footer .logo img
-    height: 60px;
+  .block-call_to_action .call_to_action .actions a:last-child
+    margin-bottom: 1.5rem;
 
 @include media-breakpoint-up(desktop)
   .hero .content
