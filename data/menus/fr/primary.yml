@@ -10,15 +10,6 @@ items:
   descendants_targets: []
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
-- title: Méthodologie
-  slug: methodologie
-  target: "/methodologie/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/methodologie"
-  file: content/fr/pages/methodologie/_index.html
 - title: Références
   slug: references
   target: "/references/"
