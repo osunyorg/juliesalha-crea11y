@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/pages/references"
   file: content/fr/pages/references/_index.html
-- title: Ressources
-  slug: ressources
+- title: Ressources gratuites
+  slug: ressources-gratuites
   target: "/ressources/"
   kind: page
   new_tab: false
