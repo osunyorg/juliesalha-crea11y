@@ -6,8 +6,28 @@ items:
   target: "/services/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Audit RGAA
+    slug: audit-rgaa
+    target: "/services/audit/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/services/audit"
+    file: content/fr/pages/services/audit/_index.html
+  - title: Formation
+    slug: formation
+    target: "/services/formation/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/services/formation"
+    file: content/fr/pages/services/formation/_index.html
+  descendants_targets:
+  - "/services/audit/"
+  - "/services/formation/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
 - title: Références
@@ -46,8 +66,8 @@ items:
   descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
-- title: Mini audit gratuit
-  slug: mini-audit-gratuit
+- title: Recevoir mon mini-audit gratuit
+  slug: recevoir-mon-mini-audit-gratuit
   target: https://147e8752.sibforms.com/serve/MUIFAJmy3wE2YEnNX6WL5hpiyX3tlwvefyP-w8sMHqgWHCNu0A-qJrynvsKBSi0Foz4HdpCMjxOxdbRsVkQkOAUNwGw6RYDXgTjKywmpOJA-ooGDUejgyath-cZub5RF-QF3lxlR3tPgznVF73rFxD4UPtOYVe5WuTc2GhouVzGkL2Gbo5LQ5YFEqZnixKAY3bfq1NGY0nBb2urfeQ==
   kind: url
   new_tab: true
