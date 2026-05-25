@@ -68,7 +68,7 @@ items:
   file: content/fr/pages/contact/_index.html
 - title: Recevoir mon mini-audit gratuit
   slug: recevoir-mon-mini-audit-gratuit
-  target: https://147e8752.sibforms.com/serve/MUIFAIkX_9SNoC17yrGEXX5cgsF_fMEQOGDYYvPV0NIuCkskKIR9xxSwbQ7zFkgONAYQxin1XC4ifLZRLR5TtrCcppTVvkp3WlB_nBcqPgnkmBjbtFGwJ-HOk_qFAwiFDpQkkvmbXZcEW1W_xlxEJsvbmRwfLubOZnGg4ExWIkTiBMvHF4Jn6rSRxgZUAXT2kBxGDQwy7PahMeAN1Q==
+  target: ''
   kind: url
   new_tab: true
   children: []
