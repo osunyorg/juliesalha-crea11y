@@ -68,10 +68,12 @@ items:
   file: content/fr/pages/contact/_index.html
 - title: Recevoir mon mini-audit gratuit
   slug: recevoir-mon-mini-audit-gratuit
-  target: ''
-  kind: url
-  new_tab: true
+  target: "/mini-audit-gratuit/"
+  kind: page
+  new_tab: false
   children: []
   descendants_targets: []
   html_class: menu-class-cta-audit-menu
+  path: "/pages/mini-audit-gratuit"
+  file: content/fr/pages/mini-audit-gratuit/_index.html
 

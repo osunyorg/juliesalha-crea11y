@@ -14,3 +14,7 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/mini-audit-free/index.html"
+to = "/mini-audit-gratuit/"
+
