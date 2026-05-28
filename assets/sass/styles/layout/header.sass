@@ -22,3 +22,7 @@ header#document-header .logo img
   color: var(--btn-hover-color)
   background: var(--btn-hover-background)
   border: var(--btn-hover-border)
+
+@include media-breakpoint-up(desktop)
+  .menu .has-children:not(.upper-menu-i18n, .primary-i18n) .dropdown-menu
+    min-width: 170px; 
