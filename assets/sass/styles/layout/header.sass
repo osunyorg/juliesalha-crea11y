@@ -9,20 +9,27 @@
     width: fit-content
 
 .primary-menu .menu li a:hover
-      text-decoration: underline
+  text-decoration: underline
 
 header#document-header .logo img
   border-radius: .3rem
 
 header#document-header .logo img
-    height: 60px
+  height: 60px
 
 .menu-class-cta-audit-menu a:focus, 
 .menu-class-cta-audit-menu a:focus-visible
-  color: var(--btn-hover-color)
-  background: var(--btn-hover-background)
   border: var(--btn-hover-border)
+  border-radius: 3px;
+  outline-color: inherit;
+  outline-offset: 8px;
+  outline-style: dashed;
+  outline-width: 1px;
+  color: blue !important
+  background: white
 
 @include media-breakpoint-up(desktop)
   .menu .has-children:not(.upper-menu-i18n, .primary-i18n) .dropdown-menu
     min-width: 170px; 
+  .menu-class-cta-audit-menu a
+    margin-left: 1.5rem;
