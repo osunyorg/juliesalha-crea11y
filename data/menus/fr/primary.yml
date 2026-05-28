@@ -16,18 +16,8 @@ items:
     descendants_targets: []
     path: "/pages/services/audit"
     file: content/fr/pages/services/audit/_index.html
-  - title: Formation
-    slug: formation
-    target: "/services/formation/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/services/formation"
-    file: content/fr/pages/services/formation/_index.html
   descendants_targets:
   - "/services/audit/"
-  - "/services/formation/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
 - title: Références
