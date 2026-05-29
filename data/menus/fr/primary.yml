@@ -65,6 +65,6 @@ items:
   children: []
   descendants_targets: []
   html_class: menu-class-cta-audit-menu
-  path: "/pages/mini-audit-gratuit"
-  file: content/fr/pages/mini-audit-gratuit/_index.html
+  path:
+  file:
 
