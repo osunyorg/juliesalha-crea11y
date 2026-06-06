@@ -21,3 +21,8 @@
 .slider-pagination li::after
   height: 0.3rem;
   background-color: #0038FF
+
+@include media-breakpoint-up(desktop)
+  .block-testimonials--carousel blockquote.is-long p,
+  .block-testimonials--carousel blockquote p
+    font-size: 2rem;
