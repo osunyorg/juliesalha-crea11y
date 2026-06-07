@@ -30,15 +30,15 @@ items:
   - "/services/formations-a-venir/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
-- title: Références
-  slug: references
-  target: "/references/"
+- title: Ressources gratuites
+  slug: ressources-gratuites
+  target: "/ressources/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/references"
-  file: content/fr/pages/references/_index.html
+  path: "/pages/ressources"
+  file: content/fr/pages/ressources/_index.html
 - title: À propos
   slug: a-propos
   target: "/a-propos/"
@@ -57,14 +57,4 @@ items:
   descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
-- title: Recevoir mon mini-audit gratuit
-  slug: recevoir-mon-mini-audit-gratuit
-  target: https://tally.so/r/D4ZjzZ
-  kind: url
-  new_tab: true
-  children: []
-  descendants_targets: []
-  html_class: menu-class-cta-audit-menu
-  path:
-  file:
 
