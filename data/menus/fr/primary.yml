@@ -30,15 +30,6 @@ items:
   - "/services/formations-a-venir/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
-- title: Références
-  slug: references
-  target: "/references/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/references"
-  file: content/fr/pages/references/_index.html
 - title: À propos
   slug: a-propos
   target: "/a-propos/"
