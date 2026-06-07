@@ -48,14 +48,4 @@ items:
   descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
-- title: Recevoir mon mini-audit gratuit
-  slug: recevoir-mon-mini-audit-gratuit
-  target: https://tally.so/r/D4ZjzZ
-  kind: url
-  new_tab: true
-  children: []
-  descendants_targets: []
-  html_class: menu-class-cta-audit-menu
-  path:
-  file:
 
