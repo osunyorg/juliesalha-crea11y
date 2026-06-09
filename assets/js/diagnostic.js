@@ -5,12 +5,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   container.innerHTML = `
     <div class="diagnostic-container">
-        <span id="diag-title">Checklist de communication inclusive</span>
         <p id="diag-desc">
             Cochez les affirmations qui correspondent à vos pratiques actuelles.
             Vous pouvez en sélectionner autant que vous le souhaitez.
         </p>
-
         <!-- Zone de progression annoncée dynamiquement (critère 7.1) -->
         <div
             role="status"
@@ -180,9 +178,9 @@ document.addEventListener("DOMContentLoaded", function () {
     let level = "";
     let recommendations = [];
 
-    if (percent >= 80) level = "🟢 Bon niveau d'accessibilité";
-    else if (percent >= 50) level = "🟠 À améliorer";
-    else level = "🔴 Priorité d'amélioration";
+    if (percent >= 80) level = "Bon niveau d'accessibilité";
+    else if (percent >= 50) level = "À améliorer";
+    else level = "Priorité d'amélioration";
 
     if (clarte < 1) recommendations.push("Simplifiez vos messages.");
     if (structure < 1) recommendations.push("Structurez davantage vos contenus.");
@@ -190,7 +188,6 @@ document.addEventListener("DOMContentLoaded", function () {
     if (inclusion < 1) recommendations.push("Renforcez l'inclusion dans vos contenus.");
 
     document.getElementById("diagnostic-result").innerHTML = `
-      <h3>${level}</h3>
       <p><strong>Score :</strong> ${total} / ${max}</p>
 
       <h4>Priorités :</h4>
