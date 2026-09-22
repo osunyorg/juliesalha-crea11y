@@ -8,8 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div>         
             <div class="top">  
                 <div class="description">
-                    <p>J'accompagne les organisations dans la conception, l'audit et l'amélioration de leurs services numériques accessibles.</p>
-                    <p>Audit RGAA · conseil · accompagnement · formation</p>
+                    <p>Audit RGAA, Conseil, Accompagnement, Formation</p>
                 </div> 
             </div>          
             <div class="actions"
@@ -20,6 +19,16 @@ document.addEventListener("DOMContentLoaded", function () {
                         target="_blank"
                         rel="noreferrer noopener"
                     >Recevoir mon mini-audit gratuit</a> 
+            </div>
+            <div class="needs">
+                <p>Vous avez besoin : </p>
+                <ul>
+                    <li>d'auditer votre site ou application ?</li>
+                    <li>de corriger les problèmes identifiés ?</li>
+                    <li>d'intégrer l'accessibilité dans une refonte ?</li>
+                    <li>de former vos équipes ?</li>
+                    <li>de disposer d'une experte accessibilité à vos côtés ?</li>
+                </ul>
             </div>
         </div>
         <figure class="is-svg image-square lightbox-figure">
