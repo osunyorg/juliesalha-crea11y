@@ -7,7 +7,10 @@ document.addEventListener("DOMContentLoaded", function () {
     cta_home.innerHTML = `
         <div>         
             <div class="top">  
-                <div class="description"><p>Une communication plus accessible, plus lisible et plus performante. Faisons-le ensemble.</p></div> 
+                <div class="description">
+                    <p>J'accompagne les organisations dans la conception, l'audit et l'amélioration de leurs services numériques accessibles.</p>
+                    <p>Audit RGAA · conseil · accompagnement · formation</p>
+                </div> 
             </div>          
             <div class="actions"
                 >     
