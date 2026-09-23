@@ -7,8 +7,8 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Audit
-    slug: audit
+  - title: Audit RGAA
+    slug: audit-rgaa
     target: "/services/audit/"
     kind: page
     new_tab: false
