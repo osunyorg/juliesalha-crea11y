@@ -16,6 +16,15 @@ items:
     descendants_targets: []
     path: "/pages/services/audit"
     file: content/fr/pages/services/audit/_index.html
+  - title: Accompagnement en accessibilité numérique
+    slug: accompagnement-en-accessibilite-numerique
+    target: "/services/accompagnement-en-accessibilite-numerique/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/services/accompagnement-en-accessibilite-numerique"
+    file: content/fr/pages/services/accompagnement-en-accessibilite-numerique/_index.html
   - title: 'Formation '
     slug: formation
     target: "/services/formations-a-venir/"
@@ -26,6 +35,7 @@ items:
     path: "/pages/services/formations-a-venir"
     file: content/fr/pages/services/formations-a-venir/_index.html
   descendants_targets:
+  - "/services/accompagnement-en-accessibilite-numerique/"
   - "/services/audit/"
   - "/services/formations-a-venir/"
   path: "/pages/services"
