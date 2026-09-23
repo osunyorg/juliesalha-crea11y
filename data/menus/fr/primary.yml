@@ -25,19 +25,9 @@ items:
     descendants_targets: []
     path: "/pages/services/accompagnement-en-accessibilite-numerique"
     file: content/fr/pages/services/accompagnement-en-accessibilite-numerique/_index.html
-  - title: 'Formation '
-    slug: formation
-    target: "/services/formations-a-venir/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/services/formations-a-venir"
-    file: content/fr/pages/services/formations-a-venir/_index.html
   descendants_targets:
   - "/services/accompagnement-en-accessibilite-numerique/"
   - "/services/audit/"
-  - "/services/formations-a-venir/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
 - title: Ressources gratuites
