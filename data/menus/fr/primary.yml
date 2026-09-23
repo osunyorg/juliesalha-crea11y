@@ -25,15 +25,6 @@ items:
     descendants_targets: []
     path: "/pages/services/accompagnement-en-accessibilite-numerique"
     file: content/fr/pages/services/accompagnement-en-accessibilite-numerique/_index.html
-  - title: 'Formation '
-    slug: formation
-    target: "/services/formation-a-laccessibilite-numerique-et-au-rgaa/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/services/formation-a-laccessibilite-numerique-et-au-rgaa"
-    file: content/fr/pages/services/formation-a-laccessibilite-numerique-et-au-rgaa/_index.html
   - title: Accessibilité dès la conception
     slug: accessibilite-des-la-conception
     target: "/services/accessibilite-numerique-des-la-conception/"
@@ -43,6 +34,15 @@ items:
     descendants_targets: []
     path: "/pages/services/accessibilite-numerique-des-la-conception"
     file: content/fr/pages/services/accessibilite-numerique-des-la-conception/_index.html
+  - title: 'Formation '
+    slug: formation
+    target: "/services/formation-a-laccessibilite-numerique-et-au-rgaa/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/services/formation-a-laccessibilite-numerique-et-au-rgaa"
+    file: content/fr/pages/services/formation-a-laccessibilite-numerique-et-au-rgaa/_index.html
   descendants_targets:
   - "/services/accessibilite-numerique-des-la-conception/"
   - "/services/accompagnement-en-accessibilite-numerique/"
