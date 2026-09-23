@@ -19,6 +19,10 @@ from = "/formations-a-venir/index.html"
 to = "/services/formations-a-venir/"
 
 [[redirects]]
+from = "/formation-a-laccessibilite-numerique-et-au-rgaa/index.html"
+to = "/services/formation-a-laccessibilite-numerique-et-au-rgaa/"
+
+[[redirects]]
 from = "/mini-audit-free/index.html"
 to = "/mini-audit-gratuit/"
 

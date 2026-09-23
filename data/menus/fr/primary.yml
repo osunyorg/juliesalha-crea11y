@@ -27,15 +27,15 @@ items:
     file: content/fr/pages/services/accompagnement-en-accessibilite-numerique/_index.html
   - title: 'Formation '
     slug: formation
-    target: "/services/formation/"
+    target: "/services/formation-a-laccessibilite-numerique-et-au-rgaa/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/services/formation"
-    file: content/fr/pages/services/formation/_index.html
-  - title: Accessibilité numérique dès la conception
-    slug: accessibilite-numerique-des-la-conception
+    path: "/pages/services/formation-a-laccessibilite-numerique-et-au-rgaa"
+    file: content/fr/pages/services/formation-a-laccessibilite-numerique-et-au-rgaa/_index.html
+  - title: Accessibilité dès la conception
+    slug: accessibilite-des-la-conception
     target: "/services/accessibilite-numerique-des-la-conception/"
     kind: page
     new_tab: false
@@ -47,7 +47,7 @@ items:
   - "/services/accessibilite-numerique-des-la-conception/"
   - "/services/accompagnement-en-accessibilite-numerique/"
   - "/services/audit/"
-  - "/services/formation/"
+  - "/services/formation-a-laccessibilite-numerique-et-au-rgaa/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
 - title: Ressources gratuites
