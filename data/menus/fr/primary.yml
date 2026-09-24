@@ -56,8 +56,8 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Études de cas en accessibilité numérique
-    slug: etudes-de-cas-en-accessibilite-numerique
+  - title: Études de cas
+    slug: etudes-de-cas
     target: "/realisations/etudes-de-cas/"
     kind: page
     new_tab: false
