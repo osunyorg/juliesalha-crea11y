@@ -50,6 +50,25 @@ items:
   - "/services/formation-a-laccessibilite-numerique-et-au-rgaa/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
+- title: Réalisations
+  slug: realisations
+  target: "/realisations/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Études de cas en accessibilité numérique
+    slug: etudes-de-cas-en-accessibilite-numerique
+    target: "/realisations/etudes-de-cas/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/realisations/etudes-de-cas"
+    file: content/fr/pages/realisations/etudes-de-cas/_index.html
+  descendants_targets:
+  - "/realisations/etudes-de-cas/"
+  path: "/pages/realisations"
+  file: content/fr/pages/realisations/_index.html
 - title: Ressources gratuites
   slug: ressources-gratuites
   target: "/ressources/"
