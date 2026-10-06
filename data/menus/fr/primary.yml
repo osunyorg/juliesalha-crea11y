@@ -50,6 +50,15 @@ items:
   - "/services/formation-a-laccessibilite-numerique-et-au-rgaa/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
+- title: Apprendre le numérique
+  slug: apprendre-le-numerique
+  target: "/cours-et-accompagnement-numerique-a-domicile/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/cours-et-accompagnement-numerique-a-domicile"
+  file: content/fr/pages/cours-et-accompagnement-numerique-a-domicile/_index.html
 - title: Réalisations
   slug: realisations
   target: "/realisations/"
